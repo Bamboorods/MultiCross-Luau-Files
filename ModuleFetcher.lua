@@ -9,7 +9,7 @@ shared.MODULE_LOADING = true
 -- Define the repository owner, repository name, and the URL format for accessing the raw files.
 local Data = {
     GithubRepOwner = "Bamboorods",
-    GithubRepName = "LuminousFreeSTABLE",
+    GithubRepName = "MultiCross-Luau-Files",
     ModulesFolder = "https://raw.githubusercontent.com/%s/%s/UNSTABLEWIP/Main/Modules/%s.lua",
 }
 
