@@ -10,7 +10,7 @@ shared.MODULE_LOADING = true
 local Data = {
     GithubRepOwner = "Bamboorods",
     GithubRepName = "MultiCross-Luau-Files",
-    ModulesFolder = "https://raw.githubusercontent.com/Bamboorods/MultiCross-Luau-Files/main/Modules/%s.lua",
+    ModulesFolder = "https://raw.githubusercontent.com/%s/%s/main/Modules/%s.lua",
 }
 
 -- Step 2: Fetch the Module Source
